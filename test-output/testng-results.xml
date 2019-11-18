@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30345" started-at="2019-11-18T10:58:08Z" finished-at="2019-11-18T10:58:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30345" started-at="2019-11-18T10:58:08Z" finished-at="2019-11-18T10:58:38Z">
+      <class name="com.facebook.tests.FB_0001_LogIn_Test">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.facebook.tests.FB_0001_LogIn_Test@39c0f4a]" name="setUp" is-config="true" duration-ms="7674" started-at="2019-11-18T11:58:08Z" finished-at="2019-11-18T11:58:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fb_0001_logIn_test()[pri:0, instance:com.facebook.tests.FB_0001_LogIn_Test@39c0f4a]" name="fb_0001_logIn_test" duration-ms="21582" started-at="2019-11-18T11:58:16Z" finished-at="2019-11-18T11:58:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fb_0001_logIn_test -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.facebook.tests.FB_0001_LogIn_Test@39c0f4a]" name="cleanUp" is-config="true" duration-ms="1034" started-at="2019-11-18T11:58:37Z" finished-at="2019-11-18T11:58:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.facebook.tests.FB_0001_LogIn_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

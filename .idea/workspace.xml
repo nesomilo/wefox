@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b4dd787-556a-4704-827d-a7affe3c56de" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/lp/LP_0004_Add_New_Termin_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="12" column="84" lean-forward="true" selection-start-line="12" selection-start-column="84" selection-end-line="12" selection-end-column="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/bs/BS_0001_Wrong_LogIn_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-61">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/tm/TM_0002_All_Grids_Alive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="36" column="66" lean-forward="true" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/tm/TerminStatisticsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lp_properties</find>
+      <find>verifyca</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/SoldLeadsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/CashoutPaymentsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/MobileUsersPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/UsersPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/util/PropertiesUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/CashoutResolvedRequestsPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/util/HelperUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/tm/TM_0000_LogIn_LogOut_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/lp/LP_0003_Create_Lead_Manually_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/base/PageBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/LPHomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/lp/LP_0004_Add_New_Termin_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/integration/lp.properties" />
+        <option value="$PROJECT_DIR$/src/test/resources/stg/lp.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/LeadsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/tm/TM_0002_All_Grids_Alive.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/tm/TMHomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/tm/DuplicatesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/integration/tm.properties" />
+        <option value="$PROJECT_DIR$/src/test/resources/integration/bs.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/tm/TerminStatisticsPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="integration" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-5" />
+    <option name="y" value="-5" />
+    <option name="width" value="480" />
+    <option name="height" value="260" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sam" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sam" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="tm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sam" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sam" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="tm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SAMPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="stg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553978227915" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandar\IdeaProjects\samPlatform\src\test\resources\prod" />
+      <recent name="C:\Users\Aleksandar\IdeaProjects\samPlatform\src\test\resources\integration" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test">
+    <configuration name="BS_0000_LogIn_LogOut_Test.bs_0000_LogIn_LogOut_Test" type="TestNG" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.bs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.bs" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.bs.BS_0000_LogIn_LogOut_Test" />
+      <option name="METHOD_NAME" value="bs_0000_LogIn_LogOut_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LP_0000_LogIn_LogOut_Test" type="TestNG" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.lp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.lp" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.lp.LP_0000_LogIn_LogOut_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LP_0003_Create_Lead_Manually_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.lp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.lp" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.lp.LP_0003_Create_Lead_Manually_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LP_0004_Add_New_Termin_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.lp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.lp" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.lp.LP_0004_Add_New_Termin_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LP_0004_Add_New_Termin_Test.lp_0004_Add_New_Termin_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.lp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.lp" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.lp.LP_0004_Add_New_Termin_Test" />
+      <option name="METHOD_NAME" value="lp_0004_Add_New_Termin_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TM_0000_LogIn_LogOut_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.tm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.tm" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.tm.TM_0000_LogIn_LogOut_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.tm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.tm" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.tm.TM_0002_All_Grids_Alive" />
+      <option name="METHOD_NAME" value="tm_0002_All_Grids_Alive_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test" />
+        <item itemvalue="TestNG.LP_0004_Add_New_Termin_Test.lp_0004_Add_New_Termin_Test" />
+        <item itemvalue="TestNG.LP_0004_Add_New_Termin_Test" />
+        <item itemvalue="TestNG.TM_0000_LogIn_LogOut_Test" />
+        <item itemvalue="TestNG.LP_0003_Create_Lead_Manually_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b4dd787-556a-4704-827d-a7affe3c56de" name="Default Changelist" comment="" />
+      <created>1553881451565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553881451565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LP_0003_Create_Lead_Manually_Test - 2019.05.02 at 16h 16m 39s.xml">
+      <configuration name="LP_0003_Create_Lead_Manually_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0000_LogIn_LogOut_Test - 2019.05.02 at 16h 31m 54s.xml">
+      <configuration name="TM_0000_LogIn_LogOut_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0000_LogIn_LogOut_Test - 2019.05.02 at 16h 32m 28s.xml">
+      <configuration name="TM_0000_LogIn_LogOut_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0000_LogIn_LogOut_Test - 2019.05.02 at 16h 33m 22s.xml">
+      <configuration name="TM_0000_LogIn_LogOut_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LP_0004_Add_New_Termin_Test - 2019.05.05 at 12h 06m 00s.xml">
+      <configuration name="LP_0004_Add_New_Termin_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LP_0004_Add_New_Termin_Test - 2019.05.05 at 12h 07m 45s.xml">
+      <configuration name="LP_0004_Add_New_Termin_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LP_0004_Add_New_Termin_Test - 2019.05.05 at 12h 09m 02s.xml">
+      <configuration name="LP_0004_Add_New_Termin_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LP_0004_Add_New_Termin_Test_lp_0004_Add_New_Termin_Test - 2019.05.05 at 12h 11m 00s.xml">
+      <configuration name="LP_0004_Add_New_Termin_Test.lp_0004_Add_New_Termin_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0002_All_Grids_Alive_tm_0002_All_Grids_Alive_Test - 2019.05.05 at 12h 19m 16s.xml">
+      <configuration name="TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0002_All_Grids_Alive_tm_0002_All_Grids_Alive_Test - 2019.05.05 at 12h 22m 39s.xml">
+      <configuration name="TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36729223" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13157895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5612789" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3243968" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/bs/BS_0000_LogIn_LogOut_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/ImportPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/SoldLeadsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="34" column="117" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/CashoutPaymentsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/UsersPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="30" column="82" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/MobileUsersPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="34" column="128" selection-start-line="34" selection-start-column="128" selection-end-line="34" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/lp/LP_0000_LogIn_LogOut_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/CashoutResolvedRequestsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/CashoutPendingRequestsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/CancelledContractsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="73" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/PartnersPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/prod/tm.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/prod/bs.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/prod/lp.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/LoginPlatform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="46" column="37" lean-forward="true" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/util/HelperUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="100" column="22" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/tm/TM_0000_LogIn_LogOut_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/lp/LP_0002_All_Grids_Alive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="72" column="47" lean-forward="true" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/lp/LP_0003_Create_Lead_Manually_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/base/PageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="146" column="35" lean-forward="true" selection-start-line="146" selection-start-column="35" selection-end-line="146" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/LPHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="447" column="79" lean-forward="true" selection-start-line="447" selection-start-column="79" selection-end-line="447" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/util/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/base/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/lp/LeadsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="119" column="37" lean-forward="true" selection-start-line="119" selection-start-column="37" selection-end-line="119" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/lp/LP_0004_Add_New_Termin_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="12" column="84" lean-forward="true" selection-start-line="12" selection-start-column="84" selection-end-line="12" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/bs/BS_0001_Wrong_LogIn_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/tm/ReassignRequestsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/tm/TMHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/tm/DuplicatesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/integration/bs.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/integration/tm.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/integration/lp.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stg/tm.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stg/lp.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stg/bs.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/tests/tm/TM_0002_All_Grids_Alive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="36" column="66" lean-forward="true" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wayseven/sam/page/tm/TerminStatisticsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
