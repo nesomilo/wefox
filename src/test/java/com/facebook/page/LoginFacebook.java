@@ -22,9 +22,6 @@ public class LoginFacebook extends PageBase {
 	@FindBy(xpath = "//label/input")
 	protected WebElement logInBtnWE;
 
-	@FindBy(xpath = "//div[5]/a")
-	protected WebElement createNewAccountBtnWE;
-
 	@FindBy(xpath = "//div[1]/div[1]/div[1]/div[1]/div/div[1]/input")
 	protected WebElement firstNameWE;
 
@@ -92,11 +89,11 @@ public class LoginFacebook extends PageBase {
 		maleRBtnWE.click();
 		passwordWE.sendKeys("Pa$$w0rd");
 		signUpBtnWE.click();
-//		 naredni koraci prilikom pravljenja account-a:
+	}
+//		 next steps:
 //		 1. confirmation code on email
 //		 2. captcha confirmation (I'm not a robot)
 //		 3. enter code that is sent to mobile phone
-	}
 	
 	public void enterCustomSignUpData(String firstName, String lastName, String emailAddress, String password) {
 		WebDriverWait wait = new WebDriverWait(driver, 30);
