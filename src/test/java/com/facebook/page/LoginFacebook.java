@@ -90,10 +90,6 @@ public class LoginFacebook extends PageBase {
 		passwordWE.sendKeys("Pa$$w0rd");
 		signUpBtnWE.click();
 	}
-//		 next steps:
-//		 1. confirmation code on email
-//		 2. captcha confirmation (I'm not a robot)
-//		 3. enter code that is sent to mobile phone
 	
 	public void enterCustomSignUpData(String firstName, String lastName, String emailAddress, String password) {
 		WebDriverWait wait = new WebDriverWait(driver, 30);
