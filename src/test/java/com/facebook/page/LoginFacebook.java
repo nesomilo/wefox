@@ -67,7 +67,7 @@ public class LoginFacebook extends PageBase {
 	
 	public void enterLogInData(String email) {
 		WebDriverWait wait = new WebDriverWait(driver, 30);
-		String emailAddress = HelperUtil.getRandomEmail1Address(email);
+		String emailAddress = HelperUtil.getRandomEmailAddress(email);
 		wait.until(ExpectedConditions.elementToBeClickable(logInEmailWE));
 		logInEmailWE.clear();
 		logInEmailWE.sendKeys(emailAddress);
@@ -77,11 +77,11 @@ public class LoginFacebook extends PageBase {
 		logInBtnWE.click();
 	}
 
-	public void enterSignUpData() {
+	public void enterSignUpData(String email) {
 		WebDriverWait wait = new WebDriverWait(driver, 30);
 		String firstName = HelperUtil.getRandomFirstName();
 		String lastName = HelperUtil.getRandomLastName();
-		String emailAddress = HelperUtil.getRandomEmailAddress();
+		String emailAddress = HelperUtil.getRandomEmailAddress(email);
 		wait.until(ExpectedConditions.elementToBeClickable(firstNameWE));
 		firstNameWE.clear();
 		firstNameWE.sendKeys(firstName);

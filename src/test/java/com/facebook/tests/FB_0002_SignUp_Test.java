@@ -15,7 +15,7 @@ public class FB_0002_SignUp_Test extends BaseTest {
 	@Test
 	public void fb_0002_signUp_test() throws Exception {
 		LoginFacebook loginFacebook = new LoginFacebook(driver);
-		loginFacebook.enterSignUpData();
+		loginFacebook.enterSignUpData(fb_properties.getValue("FB.TEST.EMAIL"));
 	}
 
 }

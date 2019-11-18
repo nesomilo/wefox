@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 import com.facebook.base.BaseTest;
 import com.facebook.page.LoginFacebook;
 
-
 public class FB_0001_LogIn_Test extends BaseTest {
 
 	public FB_0001_LogIn_Test() throws IOException, FileNotFoundException {
@@ -18,6 +17,5 @@ public class FB_0001_LogIn_Test extends BaseTest {
 		LoginFacebook loginFacebook = new LoginFacebook(driver);
 		loginFacebook.enterLogInData(fb_properties.getValue("FB.TEST.EMAIL"));
 	}
-	
 
 }
