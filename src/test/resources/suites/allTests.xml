@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="LEGO suite">
+	<test name="LEGO tests">
+	<!--Duration of suite execution: less than 1 minute-->
+		<packages>
+		<!--LEGO-->
+			<package
+				name="com.lego.tests" />
+		</packages>
+	</test>
+</suite>

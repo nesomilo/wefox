@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27929" started-at="2019-11-18T19:41:11Z" finished-at="2019-11-18T19:41:39Z">
+  <suite name="Default suite" duration-ms="30028" started-at="2021-06-20T11:44:06Z" finished-at="2021-06-20T11:44:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27929" started-at="2019-11-18T19:41:11Z" finished-at="2019-11-18T19:41:39Z">
-      <class name="com.facebook.tests.FB_0001_LogIn_Test">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.facebook.tests.FB_0001_LogIn_Test@39c0f4a]" name="setUp" is-config="true" duration-ms="7189" started-at="2019-11-18T20:41:11Z" finished-at="2019-11-18T20:41:18Z">
+    <test name="Default test" duration-ms="30028" started-at="2021-06-20T11:44:06Z" finished-at="2021-06-20T11:44:36Z">
+      <class name="com.lego.tests.Lego_Test_02">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.lego.tests.Lego_Test_02@4883b407]" name="setUp" is-config="true" duration-ms="7889" started-at="2021-06-20T13:44:06Z" finished-at="2021-06-20T13:44:14Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="fb_0001_logIn_test()[pri:0, instance:com.facebook.tests.FB_0001_LogIn_Test@39c0f4a]" name="fb_0001_logIn_test" duration-ms="19871" started-at="2019-11-18T20:41:18Z" finished-at="2019-11-18T20:41:38Z">
+        <test-method status="PASS" signature="lego_test_02()[pri:0, instance:com.lego.tests.Lego_Test_02@4883b407]" name="lego_test_02" duration-ms="20774" started-at="2021-06-20T13:44:14Z" finished-at="2021-06-20T13:44:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- fb_0001_logIn_test -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.facebook.tests.FB_0001_LogIn_Test@39c0f4a]" name="cleanUp" is-config="true" duration-ms="836" started-at="2019-11-18T20:41:38Z" finished-at="2019-11-18T20:41:39Z">
+        </test-method> <!-- lego_test_02 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.lego.tests.Lego_Test_02@4883b407]" name="cleanUp" is-config="true" duration-ms="1308" started-at="2021-06-20T13:44:34Z" finished-at="2021-06-20T13:44:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
-      </class> <!-- com.facebook.tests.FB_0001_LogIn_Test -->
+      </class> <!-- com.lego.tests.Lego_Test_02 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
